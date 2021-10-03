@@ -16,7 +16,3 @@ const store = createStore(counterReducer);
 
 // Provide store to react
 export default store;
-
-const counterSubscriber = () => {};
-
-// Apply action
